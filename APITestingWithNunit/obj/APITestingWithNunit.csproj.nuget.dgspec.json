@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ajith.George\\Desktop\\STUDY\\API-Framework\\APITestingWithNunit\\APITestingWithNunit\\APITestingWithNunit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ajith.George\\Desktop\\STUDY\\API-Framework\\APITestingWithNunit\\APITestingWithNunit\\APITestingWithNunit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ajith.George\\Desktop\\STUDY\\API-Framework\\APITestingWithNunit\\APITestingWithNunit\\APITestingWithNunit.csproj",
+        "projectName": "APITestingWithNunit",
+        "projectPath": "C:\\Users\\Ajith.George\\Desktop\\STUDY\\API-Framework\\APITestingWithNunit\\APITestingWithNunit\\APITestingWithNunit.csproj",
+        "packagesPath": "C:\\Users\\Ajith.George\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ajith.George\\Desktop\\STUDY\\API-Framework\\APITestingWithNunit\\APITestingWithNunit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ajith.George\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "ExtentReports.Core": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
