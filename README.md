@@ -21,3 +21,8 @@ The solution tests APIs from,
 ## Prerequisites:
 1. Visual Studio 2019 with the ASP.NET and web development workload
 2. .NET Core 3.0 SDK or later
+
+## Execution Steps:
+1. Clone/Download the repo.
+2. Run the tests through any means.
+3. Reperot will get generated in TestDirectory. [bin\netcoreapp2.2\..]
