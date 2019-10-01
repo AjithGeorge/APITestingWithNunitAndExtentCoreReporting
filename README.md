@@ -27,5 +27,5 @@ The solution tests APIs from,
 2. Run the tests through any means.
 3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
 
-## Sample Report
+### Sample Report
 <a href="https://github.com/AjithGeorge/APITestingWithNunitAndExtentCoreReporting/blob/master/Sample%20Report/dashboard.html">SampleReport</a>
