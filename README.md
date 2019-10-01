@@ -26,15 +26,3 @@ The solution tests APIs from,
 1. Clone/Download the repo.
 2. Run the tests through any means.
 3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
-
-<html>
-<div id="ajaxContent"></div>
-  <script>
-  var Webflow = Webflow || [];
-  Webflow.push(function() {
-    $.get('https://raw.githubusercontent.com/AjithGeorge/APITestingWithNunitAndExtentCoreReporting/master/Sample%20Report/dashboard.html', function(data) {
-      $('#ajaxContent').append(data);
-    });
-  });
-  </script>
-  </html>
