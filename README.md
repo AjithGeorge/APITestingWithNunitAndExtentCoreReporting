@@ -26,3 +26,5 @@ The solution tests APIs from,
 1. Clone/Download the repo.
 2. Run the tests through any means.
 3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
+
+<a href="/Sample Report/dashboard.html">Page 2</a>
