@@ -16,7 +16,7 @@ The solution tests APIs from,
 
 <br>Currently available extent reports package is not compatible with .Net Core applications.
 <br>Alternative solution identified was to use ExtentReports.Core.
-<br>Test framework used is nunit3 - Tests were parallelized for efficient performance.
+<br>Test framework used is nunit3 - Tests were parallelized for improved performance.
 
 ## Prerequisites:
 1. Visual Studio 2019 with the ASP.NET and web development workload
