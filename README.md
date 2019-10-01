@@ -26,3 +26,7 @@ The solution tests APIs from,
 1. Clone/Download the repo.
 2. Run the tests through any means.
 3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
+
+### Framework Helper:
+Class *APITestScenarioBase* - Base class which has the generic methods and the onetime setup/teardown definitions. Extent report is initialized in the onetime setup and is flushed in the one time tardown defined in this class item.
+Test Setup and Test Teardown is equipped with all the required code to have the extent report generated without any additional overhead for individual tests.(Setup/Teardown can be used as boiler plate code)
