@@ -19,5 +19,5 @@ The solution tests APIs from,
 <br>Test framework used is nunit3 - Test were parallelized for efficient performance.
 
 ## Prerequisites:
-1.Visual Studio 2019 with the ASP.NET and web development workload
-2..NET Core 3.0 SDK or later
+1. Visual Studio 2019 with the ASP.NET and web development workload
+2. .NET Core 3.0 SDK or later
