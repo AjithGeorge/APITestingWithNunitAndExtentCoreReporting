@@ -27,6 +27,7 @@ The solution tests APIs from,
 2. Run the tests through any means.
 3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
 
+<html>
 <div id="ajaxContent"></div>
   <script>
   var Webflow = Webflow || [];
@@ -36,3 +37,4 @@ The solution tests APIs from,
     });
   });
   </script>
+  </html>
