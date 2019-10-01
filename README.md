@@ -15,7 +15,7 @@ The solution tests APIs from,
 2. [PostmanEcho](https://postman-echo.com)
 
 <br>Currently available extent reports package is not compatible with .Net Core applications.
-<br>Alternative solution identified was to use ExtentReports.Core 1.0.2 [https://www.nuget.org/packages/ExtentReports.Core]
+<br>Alternative solution identified was to use ExtentReports.Core.
 <br>Test framework used is nunit3 - Test were parallelized for efficient performance.
 
 ## Prerequisites:
