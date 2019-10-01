@@ -29,4 +29,4 @@ The solution tests APIs from,
 
 ### Framework Helper:
 Class *APITestScenarioBase* - Base class which has the generic methods and the onetime setup/teardown definitions. Extent report is initialized in the onetime setup and is flushed in the one time tardown defined in this class item.
-<br>Test Setup and Test Teardown is equipped with all the required code to have the extent report generated without any additional overhead for individual tests.(Setup/Teardown can be used as boiler plate code)
+<br> Test Setup and Test Teardown is equipped with all the required code to have the extent report generated without any additional overhead for individual tests.(Setup/Teardown can be used as boiler plate code)
