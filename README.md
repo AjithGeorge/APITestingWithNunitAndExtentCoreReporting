@@ -3,7 +3,7 @@
 .Net Core (2.2) based api framework for creating automated api tests.
 
 ## Areas Covered:
-- Create Tests using [Nunit-v3](https://github.com/nunit/docs/wiki)
+<br>- Create Tests using [Nunit-v3](https://github.com/nunit/docs/wiki)
 <br>- Generate Report using [ExtentReports.Core-1.0.2](https://www.nuget.org/packages/ExtentReports.Core) 
 <br>- Create Tests using HttpClient Class [System.Net.Http](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netframework-4.8)
 
