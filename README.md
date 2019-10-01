@@ -25,4 +25,4 @@ The solution tests APIs from,
 ## Execution Steps:
 1. Clone/Download the repo.
 2. Run the tests through any means.
-3. Reperot will get generated in TestDirectory. [bin\netcoreapp2.2\..]
+3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
