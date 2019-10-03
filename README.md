@@ -28,5 +28,5 @@ Currently available extent reports package is not compatible with .Net Core appl
 3. Report will get generated in TestDirectory. [bin\netcoreapp2.2\..]
 
 ### Framework Helper:
-*APITestScenarioBase* - Base class which has the generic methods and the onetime setup/teardown definitions.(Extent report is initialized in the onetime setup and is flushed in the one time tardown defined in this class)
+*APITestScenarioBase* - Base class which has the generic methods and the onetime setup/teardown definitions.(Extent report is initialized in the onetime setup and is flushed in the one time teardown defined in this class)
 <br> Test Setup and Test Teardown is equipped with all the required code to have the extent report generated without any additional overhead for individual tests.(Setup/Teardown can be used as boiler plate code)
