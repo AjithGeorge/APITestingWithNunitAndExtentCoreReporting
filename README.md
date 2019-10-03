@@ -5,7 +5,7 @@
 ## Areas Covered:
 - Create Tests using [Nunit-v3](https://github.com/nunit/docs/wiki)
 - Generate Report using [ExtentReports.Core-1.0.2](https://www.nuget.org/packages/ExtentReports.Core) 
-- Create Tests using HttpClient Class [System.Net.Http](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netframework-4.8)
+- Create Tests using [HttpClient Class/System.Net.Http](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netframework-4.8)
 
 
 ## Overview:
