@@ -4,7 +4,7 @@ using System.Text;
 
 namespace APITestingWithNunit.DTOs
 {
-    public class CreateOrUpdateEmployeeDTO
+    public class CreateOrUpdateEmployeeModal
     {
         public string id { get; set; }
         public string name { get; set; }

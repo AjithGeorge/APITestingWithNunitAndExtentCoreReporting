@@ -54,6 +54,5 @@ namespace APITestingWithNunit.Framework
             return stringContent;
         }
     }
-
 }
 

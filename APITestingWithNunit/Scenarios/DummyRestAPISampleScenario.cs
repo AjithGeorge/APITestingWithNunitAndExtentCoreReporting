@@ -75,7 +75,7 @@ namespace APITestingWithNunit.Scenarios
 
             string responseContent = await client.GetStringAsync(baseURL + endpoint);
 
-            var retrievedEmployees = JsonConvert.DeserializeObject<List<EmployeeDTO>>(responseContent);
+            var retrievedEmployees = JsonConvert.DeserializeObject<List<EmployeeModal>>(responseContent);
             //Assert.That(retrievedEmployees[0].employee_name, Is.EqualTo("Burg"));
         }
 
@@ -84,7 +84,7 @@ namespace APITestingWithNunit.Scenarios
         {
             string endpoint = "employee / 247";
             string responseContent = await client.GetStringAsync(baseURL + endpoint);
-            var employee = JsonConvert.DeserializeObject<EmployeeDTO>(responseContent);
+            var employee = JsonConvert.DeserializeObject<EmployeeModal>(responseContent);
             Assert.That(employee.id, Is.EqualTo("247"));
         }
 
@@ -93,7 +93,7 @@ namespace APITestingWithNunit.Scenarios
         {
             string endpoint = "create";
 
-            var employee = new CreateOrUpdateEmployeeDTO
+            var employee = new CreateOrUpdateEmployeeModal
             {
                 name = "doe",
                 salary = "456",
@@ -106,7 +106,7 @@ namespace APITestingWithNunit.Scenarios
             Assert.That(response.StatusCode, Is.EqualTo(System.Net.HttpStatusCode.OK));
 
             string responseContent = await client.GetStringAsync(baseURL + "employees");
-            var employees = JsonConvert.DeserializeObject<List<EmployeeDTO>>(responseContent);
+            var employees = JsonConvert.DeserializeObject<List<EmployeeModal>>(responseContent);
 
             var retrievedEmployee = employees.Find(u => u.employee_name == "john");
         }
@@ -116,7 +116,7 @@ namespace APITestingWithNunit.Scenarios
         {
             string endpoint = "update/271";
 
-            var employee = new CreateOrUpdateEmployeeDTO
+            var employee = new CreateOrUpdateEmployeeModal
             {
                 name = "johnUpd",
                 salary = "123",

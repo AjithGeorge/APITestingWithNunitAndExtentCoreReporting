@@ -4,7 +4,7 @@ using System.Text;
 
 namespace APITestingWithNunit.DTOs
 {
-    public class EmployeeDTO
+    public class EmployeeModal
     {
 
         public string id { get; set; }

@@ -89,7 +89,6 @@ C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITesting
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\obj\Debug\netcoreapp2.2\APITestingWithNunit.csprojAssemblyReference.cache
-C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\obj\Debug\netcoreapp2.2\APITestingWithNunit.csproj.CoreCompileInputs.cache
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\obj\Debug\netcoreapp2.2\APITestingWithNunit.AssemblyInfoInputs.cache
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\obj\Debug\netcoreapp2.2\APITestingWithNunit.AssemblyInfo.cs
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\obj\Debug\netcoreapp2.2\APITestingWithNunit.csproj.CopyComplete
@@ -108,3 +107,6 @@ C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITesting
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\MongoDB.Driver.Core.dll
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\RazorEngine.NetCore.dll
 C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\System.Text.Encodings.Web.dll
+C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\runtimes\unix\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
+C:\Users\Ajith.George\Desktop\STUDY\API-Framework\APITestingWithNunit\APITestingWithNunit\bin\Debug\netcoreapp2.2\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll
